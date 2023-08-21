@@ -1,0 +1,6 @@
+﻿main.obj : error LNK2019: 无法解析的外部符号 "struct vector2 __cdecl operator+(struct vector2,struct vector2)" (??H@YA?AUvector2@@U0@0@Z)，该符号在函数 "void __cdecl updateSunshine(void)" (?updateSunshine@@YAXXZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "struct vector2 __cdecl operator-(struct vector2,struct vector2)" (??G@YA?AUvector2@@U0@0@Z)，该符号在函数 "void __cdecl collectSunshine(struct ExMessage *)" (?collectSunshine@@YAXPAUExMessage@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "struct vector2 __cdecl operator*(float,struct vector2)" (??D@YA?AUvector2@@MU0@@Z)，该符号在函数 "void __cdecl updateSunshine(void)" (?updateSunshine@@YAXXZ) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "__int64 __cdecl dis(struct vector2)" (?dis@@YA_JUvector2@@@Z)，该符号在函数 "void __cdecl collectSunshine(struct ExMessage *)" (?collectSunshine@@YAXPAUExMessage@@@Z) 中被引用
+main.obj : error LNK2019: 无法解析的外部符号 "struct vector2 __cdecl calcBezierPoint(float,struct vector2,struct vector2,struct vector2,struct vector2)" (?calcBezierPoint@@YA?AUvector2@@MU1@000@Z)，该符号在函数 "void __cdecl updateSunshine(void)" (?updateSunshine@@YAXXZ) 中被引用
+C:\Users\chenz\source\repos\植物vs僵尸\Debug\植物vs僵尸.exe : fatal error LNK1120: 5 个无法解析的外部命令

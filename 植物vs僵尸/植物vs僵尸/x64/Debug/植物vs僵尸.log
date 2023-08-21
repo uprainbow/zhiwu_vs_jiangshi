@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(140): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(170): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(171): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(224): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(267): warning C4244: “初始化”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(284): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(286): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(313): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(322): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(323): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(355): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(357): warning C4244: “初始化”: 从“__int64”转换到“float”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(358): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(378): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(378): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(379): warning C4244: “参数”: 从“__int64”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(379): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(381): warning C4305: “=”: 从“double”到“float”截断
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(545): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(546): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\users\chenz\source\repos\植物vs僵尸\植物vs僵尸\main.cpp(613): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  植物vs僵尸.vcxproj -> C:\Users\chenz\source\repos\植物vs僵尸\x64\Debug\植物vs僵尸.exe
